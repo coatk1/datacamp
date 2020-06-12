@@ -4,8 +4,7 @@ DataCamp
 
 .. image:: images/datacamp.png
 
-
-The material in this repo is from `DataCamp <https://www.datacamp.com/>`__
+**Note: I do not own any of the material in this repo. The material in this repo is from** `DataCamp <https://www.datacamp.com/>`__
 
 Lectures
 ========
