@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+
+  - name: DataCamp
+    url: https://www.datacamp.com/
+    about: DataCamp course.
+    
+  - name: DataCamp GitHub
+    url: https://github.com/datacamp
+    about: DataCamp GitHub.
